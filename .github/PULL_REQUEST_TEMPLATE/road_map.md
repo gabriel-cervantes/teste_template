@@ -17,9 +17,8 @@
 ### Observação para testes
 > Descreva a observação se houver...
 
-- [x] Roadmap
-- [ ] Tem SM
 - [ ] [Histórico de versões preenchido]()
+- [ ] OS preenchida
 - [ ] Importação Navi - Link
 - [ ] Aprovado
 - [ ] Testado

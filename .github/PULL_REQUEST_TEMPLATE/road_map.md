@@ -19,7 +19,7 @@
 
 - [x] Roadmap
 - [ ] Tem SM
+- [ ] [Histórico de versões preenchido]()
 - [ ] Importação Navi - Link
 - [ ] Aprovado
 - [ ] Testado
-- [ ] [Histórico de versões preenchido]()

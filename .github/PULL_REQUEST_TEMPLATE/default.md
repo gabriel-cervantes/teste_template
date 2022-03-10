@@ -14,6 +14,7 @@
 - [ ] Tem OS
 - [ ] Tem SM
 - [ ] [Histórico de versões preenchido]()
+- [ ] OS preenchida
 - [ ] Não planejada
 - [ ] Roadmap
 - [ ] Importação Navi - Link

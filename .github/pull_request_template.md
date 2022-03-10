@@ -1,21 +1,4 @@
-### Código externo
-> OS #### <br>
-> SM ####
+## Clique em "Preview" e selecione o template:
 
-### Problema
-> Descreva o problema...
-
-### Solução
-> Descreva a solução...
-
-### Observação para testes
-> Descreva a observação se houver...
-
-- [ ] Tem OS
-- [ ] Tem SM
-- [ ] [Histórico de versões preenchido]()
-- [ ] Não planejada
-- [ ] Roadmap
-- [ ] Importação Navi - Link
-- [ ] Aprovado
-- [ ] Testado
+> ### [Padrão >](?expand=1&template=default.md) <br>
+> ### [RoadMap >](?expand=1&template=road_map.md)

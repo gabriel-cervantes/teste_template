@@ -11,6 +11,7 @@
 ### Observação para testes
 > Descreva a observação se houver...
 
+- [ ] [Histórico de versões preenchido]()
 - [ ] Tem OS
 - [ ] Tem SM
 - [ ] Não planejada
@@ -18,4 +19,3 @@
 - [ ] Importação Navi - Link
 - [ ] Aprovado
 - [ ] Testado
-- [ ] [Histórico de versões preenchido]()

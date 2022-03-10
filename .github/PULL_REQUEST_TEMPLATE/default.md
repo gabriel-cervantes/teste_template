@@ -11,14 +11,11 @@
 ### Observação para testes
 > Descreva a observação se houver...
 
-- [ ] Tem OS
-- [ ] Tem SM
-- [ ] [Histórico de versões preenchido]()
-- [ ] OS preenchida
-- [ ] Não planejada
-- [ ] Roadmap
-- [ ] Importação Navi - Link
-- [ ] Aprovado
-- [ ] Testado
+### Checklist
+> - [ ] [Histórico de versões preenchido]()
+> - [ ] OS preenchida
+> - [ ] Importação Navi - Link
+> - [ ] Aprovado
+> - [ ] Testado
 
 ### Imagens
